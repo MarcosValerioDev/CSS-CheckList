@@ -30,6 +30,8 @@ h2
     display: inline-block;
     border-bottom: 4px solid #fff;
 }
+
+
 .list label
 {
     position: relative;
@@ -90,3 +92,10 @@ h2
     transition: transform 0.5s;
     transition-delay: 0.5s;
 }
+
+
+.list label:hover{
+    cursor: pointer;
+}
+
+
