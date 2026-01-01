@@ -3,4 +3,4 @@
 
 * CheckList estilizado bem legal.
 
-![javascript-efeito](https://github.com/MarcosValerioDev/canvasjavascript/blob/main/Peview.png)
+![javascript-efeito](https://github.com/MarcosValerioDev/CSS-CheckList/blob/main/preview.png)
