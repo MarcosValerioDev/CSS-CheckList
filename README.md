@@ -1,6 +1,5 @@
 # Check List estilizado muito bonito. 
 
-
-* CheckList estilizado bem legal.
+Desenvolvido com html, css e javascript.
 
 ![javascript-efeito](https://github.com/MarcosValerioDev/CSS-CheckList/blob/main/preview.png)
